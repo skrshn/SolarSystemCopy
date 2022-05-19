@@ -23,5 +23,10 @@ public class Main {
         Planet1Features p1 = new Planet1Features();
         p1.color="black";
         p1.planet="1";
+
+        //adding features to planet2
+        Planet2Features p2 = new Planet2Features();
+        p2.color="blue";
+        p2.planet="2";
     }
 }
