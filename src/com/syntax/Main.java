@@ -18,5 +18,10 @@ public class Main {
         FeatureStars star = new FeatureStars();
         star.color = "yellow";
         star.size = "123123km";
+
+        //adding features to planet1
+        Planet1Features p1 = new Planet1Features();
+        p1.color="black";
+        p1.planet="1";
     }
 }
