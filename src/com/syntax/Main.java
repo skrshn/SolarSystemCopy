@@ -16,7 +16,7 @@ public class Main {
 
         //adding features to star
         FeatureStars star = new FeatureStars();
-        star.color = yellow;
+        star.color = "yellow";
         star.size = "123123km";
     }
 }
